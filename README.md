@@ -18,6 +18,11 @@
 - Shell program for Logical Operators.
 
 #### 3. Write a Program to Shell Script and Command Line Arguments
+- Write a script for e-voting & all data of the voting person will be given as command-line arguments.
+- Create a shell script to Print all Arguments with script names and the total number of arguments passed.
+-  Create a loop through all arguments in a shell script to find the palindrome numbers. 
+-  Create a shell script to concatenate two strings given as command-line arguments.
+-  Write a shell script that gets five numbers from the command line and prints out their sum.
 
 #### 4. Study How to Create a Process in UNIX Using `fork()` System Call
 - A program to show the implementation of `fork()` process.
