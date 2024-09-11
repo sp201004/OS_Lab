@@ -5,26 +5,16 @@
 ### Experiment List
 
 #### 0. Study of UNIX /LINUX  Shell Commands
-- Navigate to the /home directory. 
-List all contents, including hidden files.
-- Create a directory named test_dir in your home directory.
-Remove the test_dir directory.
-- Create a file named hello.txt in your home directory.
-Write "Hello, world!" to the file.
-Display the contents of hello.txt.
-Delete hello.txt.
-- Copy the file /etc/hosts to your home directory.
-Copy the entire /etc/apt directory to a new directory named backup in your home directory.
+- Navigate to the /home directory. List all contents, including hidden files.
+- Create a directory named test_dir in your home directory. Remove the test_dir directory.
+- Create a file named hello.txt in your home directory. Write "Hello, world!" to the file. Display the contents of hello.txt. Delete hello.txt.
+- Copy the file /etc/hosts to your home directory. Copy the entire /etc/apt directory to a new directory named backup in your home directory.
 - Move the file hosts (copied in Exercise 4) to the backup directory and rename it to hosts_backup.
 - Change the permissions of the hosts_backup file to be readable, writable, and executable by the owner only.
-- Display a list of current users.
-Show how long the system has been running.
-Display the system's memory usage in a human-readable format.
+- Display a list of current users. Show how long the system has been running. Display the system's memory usage in a human-readable format.
 - Change date & time of Computer using command.
-- Display the contents of /etc/passwd.
-Filter and display only lines containing the word "root".
-- Redirect the list of all files and directories in /etc to a file named etc_list.txt in your home directory.
-Use a pipeline to display the contents of /etc/passwd and filter for lines containing "bin".
+- Display the contents of /etc/passwd. Filter and display only lines containing the word "root".
+- Redirect the list of all files and directories in /etc to a file named etc_list.txt in your home directory. Use a pipeline to display the contents of /etc/passwd and filter for lines containing "bin".
 
 #### 1. Introduction to Shell Scripting - Write & execute  the below listed programs
 - A SHELL SCRIPT PROGRAM ON LEAP YEAR.
