@@ -54,11 +54,10 @@ Percentage < 40% : Grade F
 - Create a shell script to concatenate two strings given as command-line arguments.
 - Write a shell script that gets five numbers from the command line and prints out their sum.
 
-#### 4. Study How to Create a Process in UNIX Using `fork()` System Call
-- A program to show the implementation of `fork()` process.
-- A program to show the implementation of `fork()` process and show the current working directory of child and parent process.
+#### 5. Study How to Create a Process in UNIX Using `fork()` System Call
+- WAP to create process and display PID & PPID for both parent & child processes. In switch cases also include a case for unsuccessful process creation.
 
-#### 5. Process Control & Implementation of `wait()`, `exec()` System Call, Zombie Process, Orphan Process, Daemon Processes
+#### 6. Process Control & Implementation of `wait()`, `exec()` System Call, Zombie Process, Orphan Process, Daemon Processes
 - A program to show how the `exec` process works.
 - A program to implement the `exec` process by showing the contents of any directory.
 - A program to show the implementation & working of `wait` process.
@@ -68,22 +67,22 @@ Percentage < 40% : Grade F
 - C program which shows the implementation of zombie process.
 - C program which shows the implementation of daemon process.
 
-#### 6. Implementation of all CPU Scheduling Algorithms
+#### 7. Implementation of all CPU Scheduling Algorithms
 - A program to simulate the FCFS CPU scheduling algorithm.
 - A program to simulate the SJF CPU scheduling algorithm.
 - A program to simulate the priority CPU scheduling algorithm.
 - A program to simulate the Round Robin CPU scheduling algorithm.
 
-#### 7. Study of Signal Handling & Implementation
+#### 8. Study of Signal Handling & Implementation
 - WAP C program to catch a signal.
 
-#### 8. Study of Signal Implementation `SIGKILL`, `SIGSTOP`, and User Defined Signals
+#### 9. Study of Signal Implementation `SIGKILL`, `SIGSTOP`, and User Defined Signals
 - WAP C program to implement `SIGKILL`, `SIGSTOP` and user defined signals.
 
-#### 9. Study & Implementation of Thread Creation & Execution
+#### 10. Study & Implementation of Thread Creation & Execution
 - C program to implement Pthread Creation and Termination.
 - Program to check the process id numbers of parent and child thread is same or different.
 - Each thread prints a "Hello World!" message, and then terminates with a call to `pthread_exit()`.
 - Program to implement `pthread_create()` argument passing.
 
-#### 10. A Program to Simulate the Bankers Algorithm for Deadlock Avoidance
+#### 11. A Program to Simulate the Bankers Algorithm for Deadlock Avoidance
