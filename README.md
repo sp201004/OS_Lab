@@ -87,9 +87,4 @@
 
 - WAP C program to implement `SIGKILL`, `SIGSTOP` and user defined signals.
 
-#### 10. Study & Implementation of Thread Creation & Execution
-
-- C program to implement Pthread Creation and Termination.
-- Program to check the process id numbers of parent and child thread is same or different.
-- Each thread prints a "Hello World!" message, and then terminates with a call to `pthread_exit()`.
-- Program to implement `pthread_create()` argument passing.
+#### 11. For Deadlock Avoidance Banker’s Algorithm in Operating System
